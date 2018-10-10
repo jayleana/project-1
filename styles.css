@@ -1,0 +1,18 @@
+/**div {
+    position: absolute;
+}**/
+
+h1{
+    font-family: 'Aladin', cursive;
+    font-size: 65pt;
+}
+
+p{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 13pt;
+}
+
+img{
+ height: 50%;
+ width: 50%;
+}
