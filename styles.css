@@ -20,12 +20,12 @@ h2{
     font-family: 'Aladin', cursive;
     font-size: 25pt;
     padding-bottom: 10px;
-    color: #363636;
+    color: #fff;
     margin-bottom: 10px; 
 }
 
 .h2-reverse {
-    color: #000;
+    color: #fff;
 }
 
 p{
@@ -87,7 +87,7 @@ color: #fff;
 .achievements{
     color: #fff;
     padding-left: 10px;
-    float: left;
+    float: right;
     width: 50%;
     background: #363636;
     opacity: 0.8;
